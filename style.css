@@ -95,7 +95,7 @@
 .content-col {
     width: 55%;
     display: inline-block;
-    background-color: #585d65;
+    background-color: #373b40;
     margin-left: 45%;
     color: #ffffff;
     padding-left: 5%;
@@ -130,7 +130,11 @@
     line-height: 1.5;
     font-weight: 800;
     color: #fff;
-    background: #585d65;
+    background: #373b40;
     border-radius: 264px;
+}
+.typed-subtitle {
+    color: #68e0cf;
+    font-weight: 600;
 }
 
